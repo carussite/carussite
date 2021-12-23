@@ -2,7 +2,7 @@ Hi, I’m En aka @carussite!
 
 I'm a little visionaire on the way to M.A.D. with the power of STEM.
 
-- 👀 Interested in engineering, innovation and business.
+- 👀 Interested in engineering, innovation and business. Mechatronics, physics and programming are the solution.
 - ✨ Currently in the #python and #c++ learning mode, curious and ready for challenges.
 - 💭 Forever committed to progress and vision. It's the problem solving and ideas generating for me. 
 - 🌻 Never enough books, informations, won bets and good music.
