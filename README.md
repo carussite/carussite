@@ -1,6 +1,6 @@
-# **Hi, I’m En aka @carussite!**
+## **Hi, I’m ==En== aka @carussite!**
 
-> python & cpp 
+💻 python and cpp
 
 
 
