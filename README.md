@@ -1,7 +1,8 @@
-## **Hi, I’m <mark>En</mark> aka @carussite!**
+## **Hi, I’m En aka *~~@carussite~~*!**
 
-💻 python and cpp
-
+💻 python
+🖱️ cpp
+👽 arduino
 
 
 
