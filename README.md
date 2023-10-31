@@ -1,9 +1,21 @@
 ## **Hi, I’m En aka *~~@carussite~~*!**
 
-💻 python
-🖱️ cpp
+Building up:
+:star: UX/UI 
+:boom: Figma, Frontend full stack design (HTML, CSS, JavaScript)
+
+
+Embedded systems programming: 
 :watch: c
-👽 arduino
+👽 Arduino
+
+
+Programming basics:
+💻 Python
+🖱️ C++
+
+
+
 
 
 
