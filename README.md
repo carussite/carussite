@@ -6,7 +6,7 @@ Building up:
 
 
 Embedded systems programming: 
-:watch: c
+:watch: C
 👽 Arduino
 
 
